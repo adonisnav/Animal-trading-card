@@ -1,0 +1,46 @@
+html{
+  font-family: sans-serif,arial,helvetica;
+}
+#card{
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px  rgba(119,101,101,0.3);
+  border-radius: 10px;
+  /* background-color: rgba(110,101,552,0.3); */
+
+}
+#card-info{
+ margin: 0px;
+ padding: 10px;
+ border: 1px solid #cccccc;
+ border-radius: 10px;
+ border-color: black;
+ /* background: tan; */
+  /* background-image:url(rottie.jpg); */
+
+}
+
+.title{
+  font-weight: bold;
+}
+
+.list{
+  padding: 0px;
+  list-style: none;
+  }
+
+img{
+  width: 300px;
+  padding-bottom: 10px;
+  /* border-radius: 1.8em 1.8em 1.8em 1.8em; */
+
+}
+
+.fact{
+  font-style: italic;
+}
+
+.label{
+  font-weight: bold;
+}
